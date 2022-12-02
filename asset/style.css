@@ -84,3 +84,23 @@ header img{
     margin-left: 10px;
     background-image: url(./icons/down-arrow.svg);
 }
+main{
+    width: 100%;
+    height: auto;
+    min-width: 320px;
+    background-color: var(--off-white);
+}
+.main-exchange-container{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.main-exchange-container{
+    
+}
+.main-exchange-container--title{
+    
+}
